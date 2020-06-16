@@ -1,6 +1,8 @@
 Example Voting App forked
 =========
 
+This is a sample instavote application.
+
 Getting started
 ---------------
 
